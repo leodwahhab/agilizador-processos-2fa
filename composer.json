@@ -1,0 +1,9 @@
+{
+    "name": "leo/automatizador",
+    "autoload": {
+        "psr-4": {
+            "Leo\\Automatizador\\": "src/"
+        }
+    },
+    "require": {}
+}
