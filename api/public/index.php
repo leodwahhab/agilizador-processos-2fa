@@ -1,4 +1,5 @@
 <?php
+    phpinfo();
     require '../vendor/autoload.php';
     use Leo\Automatizador\app\Texto;
 
